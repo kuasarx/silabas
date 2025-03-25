@@ -15,8 +15,8 @@ Este script PHP proporciona una función para separar palabras en español en su
 
 ## Uso
 
-1.  Clona el repositorio o descarga el archivo `silabas.php`.
-2.  Incluye el archivo `silabas.php` en tu script PHP.
+1.  Clona el repositorio o descarga el archivo `separa_silabas.php`.
+2.  Incluye el archivo `separa_silabas.php` en tu script PHP.
 3.  Llama a la función `silabas()` con la palabra que deseas separar en sílabas.
 
     ```php
